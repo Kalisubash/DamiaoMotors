@@ -40,7 +40,9 @@ Works on Raspberry Pi 4 and Windows/Linux PC
 Component	Description
 DM6006 / DM4310 / DM Series Motor	Motor being controlled
 DM_CAN_Library	Python library for motor CAN control
-USB to CAN Adapter	Example: CANable, USB-CAN FD, Waveshare
+USB to CAN Adapter	Example: DAMIAO CAN Debugger USB to CAN
 Raspberry Pi 4 / Laptop / PC	Running the Python script
 Power Supply	As required by your motor
-CAN wiring	CANH → CANH, CANL → CANL, GND → GND
+CAN wiring	CANH → CANH, CANL → CANL, (GND → GND optional)
+
+
